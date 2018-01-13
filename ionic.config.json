@@ -1,0 +1,8 @@
+{
+  "name": "Bittrexfolio",
+  "app_id": "49b60c4e",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
